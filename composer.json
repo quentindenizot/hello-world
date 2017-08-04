@@ -1,0 +1,8 @@
+{
+  "name":"quentindenizot/hello-world",
+  "autoload":{
+    "psr-0":{
+      "Dzr\\Libs\\Admin":"src"
+    }
+  }
+}
