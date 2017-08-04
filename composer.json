@@ -2,7 +2,7 @@
   "name":"quentindenizot/hello-world",
   "autoload":{
     "psr-0":{
-      "Dzr\\Libs\\Admin":"src/Dzr/Libs/Admin/"
+      "Dzr\\Libs\\Admin":"src"
     }
   }
 }
